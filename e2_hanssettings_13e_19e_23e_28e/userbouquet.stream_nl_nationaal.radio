@@ -357,6 +357,8 @@
 #DESCRIPTION Radio Mi Amigo, de échte - 2
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//janus.shoutca.st%3a8031/;:Radio Mi Amigo International
 #DESCRIPTION Radio Mi Amigo International
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kepler.shoutca.st%3a8528/stream;:Radio Monique International
+#DESCRIPTION Radio Monique International
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radionl.fm/radionl:RadioNL
 #DESCRIPTION RadioNL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radionlkids.nl/rnlkids:Radio NL Kids
